@@ -1,0 +1,4 @@
+<resources>
+    //Important #2: Edit the application's name here.
+    <string name="app_name">WebsiteWrapper</string>
+</resources>
