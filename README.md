@@ -8,8 +8,9 @@ Just modify the link and appname.
 Simple as that :D
 </p>
 <p align="center">
-![](https://i.imgur.com/Oqs5pzK.png?3 "")
+<img src="https://i.imgur.com/Oqs5pzK.png?3">
 </p>
+
 <p align="center">
-![](https://i.imgur.com/5cix7Yl.png "")
+<img src="https://i.imgur.com/5cix7Yl.png">
 </p>
