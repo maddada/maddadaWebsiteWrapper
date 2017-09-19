@@ -12,5 +12,5 @@ Simple as that :D
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/5cix7Yl.png">
+<img src="https://i.imgur.com/5cix7Yl.png?1">
 </p>
