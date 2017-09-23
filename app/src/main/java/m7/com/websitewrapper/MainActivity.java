@@ -12,7 +12,12 @@ public class MainActivity extends AppCompatActivity {
 
     WebView wv;
 
-    //Important #1: Change the site the app opens here: ex, http://google.com
+    //Things to change:
+    // #1: Change the site the app opens, eg. String mypage = "http://mysite.com";
+    // #2: Change the app_name value in strings.xml
+    // #3: Change applicationId "m7.com.websitewrapper" in app\build.gradle
+    // #4: Change the Icon of the app.
+
     String mypage = "http://google.com";
 
     @Override
